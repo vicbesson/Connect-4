@@ -1,0 +1,1 @@
+•	Connect 4 game that uses a TCP connection on the local area network to play the game Connect 4. The back-end consists of a client and server that uses BackgroundWorkers to send and receive commands to be used on the front-end. Has play timer and rematch capability. Allows a host to host a game using a unique key, that the opponent must enter to join.
